@@ -41,9 +41,9 @@
     "@phantom/client": "workspace:^",
     "@phantom/parsers": "workspace:^",
     "@phantom/phantom-api-client": "workspace:^",
-    "axios": "1.15.2",
+    "axios": "1.20.0",
     "js-sha3": "^0.9.3",
-    "zod": "^4.3.6"
+    "zod": "^4.6.6"
   },
   "files": [
     "dist"
